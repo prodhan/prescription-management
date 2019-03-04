@@ -1,6 +1,6 @@
 <h3 align="center">Prescription Management System</h3>
 
-
+![alt text](https://raw.githubusercontent.com/prodhan/prescription-management/master/screenshot.png)
 
 ## About
 
